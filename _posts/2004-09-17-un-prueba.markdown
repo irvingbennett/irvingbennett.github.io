@@ -1,0 +1,14 @@
+---
+author: Rompy
+comments: true
+date: 2004-09-17 16:32:35+00:00
+layout: post
+link: http://alairelibre.ws/2004/09/17/un-prueba
+slug: un-prueba
+title: Un prueba...
+wordpress_id: 1027
+categories:
+- General
+---
+
+**Wow**  después de arduo trabajo he instalado WordPress, este blogger!

@@ -1,0 +1,14 @@
+---
+author: Rompy
+comments: true
+date: 2004-10-28 15:25:53+00:00
+layout: post
+link: http://alairelibre.ws/2004/10/28/nirvana
+slug: nirvana
+title: Nirvana
+wordpress_id: 10
+categories:
+- General
+---
+
+La nueva red inalámbrica 802.11G está fabulosa.  Puedo sentarme donde más cómodo este dentro, o fuera de mi casa, y pegarme con mi red y el internet a 54mb por segundo.  Puedo escribir, como ahora, sentado en un lugar fresco, fuera de mi casa, al aire libre, escuchando la Novena Sinfonía de Beethoven.  ¡Nirvana!
