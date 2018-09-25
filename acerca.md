@@ -10,6 +10,6 @@ Hola, este sitio es una versión estática de http://alairelibre.net. Mi nombre 
 
 Mi trabajo es en tecnología así es que desde temprano aproveché para mezclar mis intereses aventureros con mi afición por escribir, por aprender, y por conocer las tecnologías que hoy forman el internet.
 
-### Contaco
+### Contacto
 
 [irving@alairelibre.net](mailto:irving@alairelibre.net)
